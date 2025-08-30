@@ -69,8 +69,4 @@ Expand dataset for more disease categories
 Add Deep Learning models for better accuracy
 Deploy on Cloud (AWS/GCP/Heroku)
 
-👨‍💻 Author
-
-Ishan Mishra
-💼 LinkedIn - https://www.linkedin.com/in/ihrm-ishan/
-📧 Email: ihrm.aiml@gmail.com
+📧 Email:vaishnavividem9@gmail.com
